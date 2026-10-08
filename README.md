@@ -1,1 +1,1 @@
-# Practice-Assignment---Part-1-Analyzing-wildfire-activities-in-Australia
+# Practice-Assignment-Analyzing-wildfire-activities-in-Australia
